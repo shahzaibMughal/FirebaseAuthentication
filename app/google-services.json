@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "356371615077",
+    "firebase_url": "https://authentication-practice-e29fe.firebaseio.com",
+    "project_id": "authentication-practice-e29fe",
+    "storage_bucket": "authentication-practice-e29fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356371615077:android:a54bea7f9b6673b0",
+        "android_client_info": {
+          "package_name": "com.shahzaib.firebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356371615077-gcks2acuul6c50v5j08v6m83vq3bud53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ2YJZ4TbXx5swnoaF14hJKa_BL5HqSLI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

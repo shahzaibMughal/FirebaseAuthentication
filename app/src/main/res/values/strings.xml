@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Firebase Authentication</string>
+    <string name="title_activity_sign_up__new__user">SignUp_New_User</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
